@@ -12,7 +12,7 @@
 |Blog Service Name|Profile URL|
 |---|---|
 |<img src="https://static.zenn.studio/images/logo-transparent.png" width="19px" height="19px" /> Zenn|[くもりにくもったクラウドサービスlocaler](https://zenn.dev/localer)|
-|<img src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" width="20px" height="20px" /> Qiita (投稿内容は、Zennと同じ)|[@nobodylocaler](https://zenn.dev/localer)|
+|<img src="https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico" width="20px" height="20px" /> Qiita (投稿内容は、Zennと同じ)|[@nobodylocaler](https://qiita.com/nobodylocaler)|
 
 ### Programming Skills
 

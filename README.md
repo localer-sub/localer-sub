@@ -29,7 +29,7 @@
 |**OS**|<img src="https://archlinux.org/static/favicon.51c13517c44c.png" width="20px" height="20px" /> Arch Linux|
 |**Editor**|[<img src="https://code.visualstudio.com/apple-touch-icon.png" width="20px" height="20px" /> Visual Studio Code](https://code.visualstudio.com/)|
 |**JS･TS Linter**|[<img src="https://biomejs.dev/img/favicon.svg" width="20px" height="20px" /> Biome](https://biomejs.dev/ja/guides/getting-started/)|
-|**JS･TS Runtime/PackageManager**|[<img src="" width="20px" height="20px" /> Bun](https://bun.sh/)|
+|**JS･TS Runtime/PackageManager**|[<img src="https://bun.sh/logo-square.png" width="20px" height="20px" /> Bun](https://bun.sh/)|
 
 ---
 
